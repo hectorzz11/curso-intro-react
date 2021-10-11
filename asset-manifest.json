@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hectorzz11/curso-intro-react/static/css/main.bbde9bf0.chunk.css",
+    "main.js": "/hectorzz11/curso-intro-react/static/js/main.eebee97b.chunk.js",
+    "main.js.map": "/hectorzz11/curso-intro-react/static/js/main.eebee97b.chunk.js.map",
+    "runtime-main.js": "/hectorzz11/curso-intro-react/static/js/runtime-main.a3100373.js",
+    "runtime-main.js.map": "/hectorzz11/curso-intro-react/static/js/runtime-main.a3100373.js.map",
+    "static/js/2.eae3ae5b.chunk.js": "/hectorzz11/curso-intro-react/static/js/2.eae3ae5b.chunk.js",
+    "static/js/2.eae3ae5b.chunk.js.map": "/hectorzz11/curso-intro-react/static/js/2.eae3ae5b.chunk.js.map",
+    "index.html": "/hectorzz11/curso-intro-react/index.html",
+    "static/css/main.bbde9bf0.chunk.css.map": "/hectorzz11/curso-intro-react/static/css/main.bbde9bf0.chunk.css.map",
+    "static/js/2.eae3ae5b.chunk.js.LICENSE.txt": "/hectorzz11/curso-intro-react/static/js/2.eae3ae5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3100373.js",
+    "static/js/2.eae3ae5b.chunk.js",
+    "static/css/main.bbde9bf0.chunk.css",
+    "static/js/main.eebee97b.chunk.js"
+  ]
+}
